@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @penguin3301
+- 👀 I’m interested in Android and Linux development
+- 🌱 I’m currently learning CI/CD, GitHub Actions
